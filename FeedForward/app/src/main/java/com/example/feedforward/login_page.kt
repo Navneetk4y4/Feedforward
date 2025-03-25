@@ -17,16 +17,26 @@ class login_page : AppCompatActivity() {
         setContentView(R.layout.activity_login_page)
 
         val login = findViewById<Button>(R.id.button)
-        val register = findViewById<TextView>(R.id.textView2)
+        val reg = findViewById<TextView>(R.id.textView2)
         val username = findViewById<EditText>(R.id.editTextText2)
         val password = findViewById<EditText>(R.id.editTextTextPassword)
 
 
         login.setOnClickListener{
 
-            val intent = Intent(this, home_page::class.java)
+            val login = Intent(this, home_page::class.java)
 
-            startActivity(intent)
+            startActivity(login)
+
+        }
+
+
+        reg.setOnClickListener{
+
+            val reg = Intent(this, register::class.java)
+
+            startActivity(reg)
+
 
         }
     }
