@@ -27,6 +27,6 @@ class MainActivity : AppCompatActivity() {
         Handler().postDelayed({
             startActivity(Intent(this@MainActivity, login_page::class.java))
             finish()
-        }, 1200) // Slight delay after animatio
+        }, 1200) // Slight delay after animation
     }
 }

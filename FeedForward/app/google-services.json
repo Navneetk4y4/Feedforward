@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621328205716",
+    "project_id": "feedforward-d9f7b",
+    "storage_bucket": "feedforward-d9f7b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621328205716:android:04d1fc1c12cc9d7109b181",
+        "android_client_info": {
+          "package_name": "com.example.feedforward"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621328205716-3oq3jadhejesidrn3gk7fh5esj254ulg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3yEJOE_1y1cvpHhZQ_rwmw9owQauu5Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621328205716-3oq3jadhejesidrn3gk7fh5esj254ulg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

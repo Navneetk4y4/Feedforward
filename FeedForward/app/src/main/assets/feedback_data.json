@@ -1,0 +1,22 @@
+[
+  {
+    "id": "feedback1",
+    "title": "Service Feedback",
+    "description": "Give feedback on our recent service experience.",
+    "questions": [
+      "How would you rate our service?",
+      "What did you like the most?",
+      "What can we improve?"
+    ]
+  },
+  {
+    "id": "feedback2",
+    "title": "App Usability",
+    "description": "Tell us about your experience using the app.",
+    "questions": [
+      "Is the app easy to navigate?",
+      "Did you experience any issues?",
+      "What features would you like to see?"
+    ]
+  }
+]
